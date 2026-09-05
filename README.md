@@ -1,6 +1,12 @@
 # 📊 Superstore Sales Dashboard
 
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![PivotTables](https://img.shields.io/badge/PivotTables-blue?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange?style=flat-square)
+
 An interactive Excel dashboard built on the classic **Sample Superstore** dataset, analyzing sales, profit, and order performance across regions, segments, and product categories.
+
+Analyzed **9,994 orders** across **1,862 products** and **793 customers**, generating **₹22.97L in total sales** and **₹2.86L in profit**.
 
 ![Superstore Sales Dashboard](./dashboard_screenshot.png)
 
@@ -59,4 +65,10 @@ Built on the **Sample Superstore** dataset (a widely used retail sales dataset f
 Tables are the biggest drag on profitability, generating a **₹17.7K loss** overall — largely driven by high discounting. Reviewing and tightening discount policy on Tables is the top recommendation for improving overall profit margins.
 
 ---
+
 *Dataset: Sample Superstore (commonly used for BI/dashboarding practice with Tableau, Power BI, and Excel).*
+
+## 👩‍💻 Author
+
+**Varsani A**
+B.Tech Information Technology
